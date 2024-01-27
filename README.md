@@ -1,12 +1,13 @@
-# Probability and Statistics [Term Project]
+# Prediction-Model---Baseball-Game Winner on Real Data
+
 
 **Brief:**
 
 ## Abstract
 
-**Author:** [Author Name]
+**Author:** [Ali Hassan]
 
-**Email:** [Email Address]
+**Email:** [malihassanahmad@gmail.com]
 
 ## Table of Contents
 
@@ -23,7 +24,7 @@
 
 <a name="br2"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 **Brief:**
 Predicting the outcome of a Baseball Game in a complete regular season using Regression Model, and Normal Distributions, also analyzing the trends via resourceful graphs generated between resourceful elements from the selected Dataset.
@@ -32,7 +33,7 @@ Page 1
 
 <a name="br3"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 **Brief:**
 
@@ -54,7 +55,7 @@ Page 3
 
 <a name="br5"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 ### Distribution Analysis
 
@@ -64,7 +65,7 @@ Page 4
 
 <a name="br6"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 On the left, we see those incremental increases in OBP, and yearly plate appearances have a strong positive correlation with scoring more runs. This is intuitive because the more at-bats a team has during a game, the higher chance they will have to score runs.
 
@@ -76,7 +77,7 @@ Page 5
 
 <a name="br7"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 **The residuals seem to be normally distributed (great sign).**
 
@@ -94,7 +95,7 @@ Page 7
 
 <a name="br9"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 ### Testing on a Team
 
@@ -114,30 +115,21 @@ Page 8
 
 <a name="br10"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 After obtaining the data and doing my initial EDA, it seems that the most valuable hitting statistics for predicting runs scored per season are Plate Appearances, Left On Base, On Base Percentage, and On Base x Slugging Percentage. These variables together account for 96% of the variance in runs scored per season within the dataset. Going forward, I would like to test this model on the 2019 regular season as well as turn my focus toward the target variable of wins per season.
 
 ### Normal Distribution
-
+#### Distribution of Runs
+![Alt Text]([./images/my_image.png](https://github.com/theAliHassan/Prediction-Model---Baseball-Game/blob/main/distributionOFRuns.png))
 Page 9
 
 <a name="br11"></a> 
 
-## Probability and Statistics [Term Project]
+## Prediction-Model---Baseball-Game Winner on Real Data
 
 **To be Notes:** Data is Highly Correlated and is Normal.
 
-### QQ Plot Test
 
-Page 10
 
-<a name="br12"></a> 
 
-Page 11
-
-<a name="br13"></a> 
-
-## Probability and Statistics [Term Project]
-
-Page 12
